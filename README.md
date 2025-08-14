@@ -69,10 +69,15 @@ Predicted Close Price: $XXX.XX
    ```bash
    git clone https://github.com/MuhammadAwais45/Stock-Prediction.git
    cd Stock-Prediction
+   
 Install dependencies:
+```bash
   pip install pandas scikit-learn yfinance
+```
 Run the application:
+```bash
   python task2.py
+```
   
 📌 Future Improvements
   Add multiple stock ticker options instead of just AAPL
